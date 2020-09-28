@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            int[] p = new int[15];
+            int[] p = new int[10];
             Random rand = new Random();
             for (int i = 0; i < p.Length; i++) { 
                 p[i] = rand.Next(-10,10);

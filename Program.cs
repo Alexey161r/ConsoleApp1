@@ -30,6 +30,7 @@ namespace ConsoleApp1
                 }
                 Console.Write(m[i] + " ");
             }
+            Console.WriteLine("Программа завершена.");
             Console.ReadKey();
         }
         

@@ -17,7 +17,7 @@ namespace ConsoleApp1
                 Console.Write(p[i] + " ");
             }
             Console.WriteLine();
-            int[] m = new int[15];
+            int[] m = new int[10];
             for (int i = 0; i < m.Length; i++)
             {
                 if(i % 2 == 0)
